@@ -106,6 +106,8 @@ variable for an explanation of the defaults (in comments). See
       compile
       consult
       corfu
+      ;; TODO this evil-collection is pending at: https://github.com/emacs-evil/evil-collection/pull/673
+      ;; crdt
       (custom cus-edit)
       cus-theme
       daemons
